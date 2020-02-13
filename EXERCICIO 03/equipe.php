@@ -29,12 +29,12 @@ require ('_header.php');
             </div>
 
             <div class="col-md-4">
-        <img class="img-rounded" src="img/bruno.jfif" alt="">
+        <img class="img-rounded" src="img/sandro.jpg" alt="">
         <hr>
-        <h3>Sandrin</h3>
+        <h3>Sandro de Freitas</h3>
         <hr>
-        <p>Cursando Técnico em Informática pelo Senac.</p>
-        <p>Gosta de desenvolvimento back-end.</p>
+        <p>Cursando Técnico em Informática pelo Senac.
+        Pretende se especializar como desenvolvedor de aplicativos.</p>
             </div>
 
         </div>
