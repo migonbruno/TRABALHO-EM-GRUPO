@@ -20,12 +20,12 @@ require ('_header.php');
             </div>
 
             <div class="col-md-4">
-        <img class="img-rounded" src="img/bruno.jfif" alt="">
+        <img class="img-rounded" src="img/Alan.png" alt="" style="width:275px;height:275px;">
         <hr>
         <h3>Alan Silva</h3>
         <hr>
         <p>Cursando Técnico em Informática pelo Senac.</p>
-        <p>Pretende se especializar em desenvolvimento back-end e segurança.</p>
+        <p>Pretende se especializar em desenvolvimento de jogos.</p>
             </div>
 
             <div class="col-md-4">
